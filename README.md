@@ -6,6 +6,7 @@
   -Nodejs(Versão 16.14.2)
   -Git
   -npm
+  
 2- Clone o repositório no terminal bash com o comando:
   $ git clone https://github.com/mateussluan/To-do-list.git
   
@@ -18,5 +19,6 @@
     
 3- Após seguir os passos anteriores, dé inicio ao seu projeto no terminal usando o comando:
   $ npm run dev
+  
 4- Se conecte ao banco de dados MongoDB para que o projeto rode por lá:
   
